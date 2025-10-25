@@ -1,0 +1,1 @@
+https://github.com/iNavFlight/inav/issues/8044
